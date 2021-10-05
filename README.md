@@ -1,5 +1,5 @@
 # pertemuan1_intent
 
-Nama : Rizky Adi Ryanto
+Nama : La Haris
 <br>
 ini merupakan apps praktikum MBKM ITN MALANG
